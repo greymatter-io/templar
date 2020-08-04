@@ -1,8 +1,8 @@
 # Templar
 
 [![CircleCI](https://circleci.com/gh/greymatter-io/templar.svg?style=svg&circle-token=7c00fc19d2b4b5df2cc804381fd95059c4666950)](https://circleci.com/gh/greymatter-io/templar)
-[![Maintainability](https://api.codeclimate.com/v1/badges/f04eca4a5fade51ab2bb/maintainability)](https://codeclimate.com/repos/5e41d398998a0745dc01a4bb/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/f04eca4a5fade51ab2bb/test_coverage)](https://codeclimate.com/repos/5e41d398998a0745dc01a4bb/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/581e8ca47befad079798/maintainability)](https://codeclimate.com/github/greymatter-io/templar/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/581e8ca47befad079798/test_coverage)](https://codeclimate.com/github/greymatter-io/templar/test_coverage)
 
 A command line utility for rendering Go template files.
 
